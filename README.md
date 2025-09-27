@@ -15,6 +15,7 @@ size (BHK)
 
 total_sqft
 
+
 bath
 
 price
@@ -71,11 +72,4 @@ Deploy the model as a web app using Flask or Streamlit
 
 👩‍💻 Author
 Warda Elghreeb
-Data Analyst & Machine Learning Engineer
-
-
-
-
-
-No file chosenNo file chosen
-ChatGPT can make mistakes. Check important info.
+Data Analyst & Machine Learning 
